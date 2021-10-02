@@ -1,5 +1,5 @@
 # Webgis
-![webgis](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.esri.com%2Fabout%2Fnewsroom%2Finsider%2Fweb-gis-simply%2F&psig=AOvVaw3SIHOhVmmZ5zWUAHnJv2om&ust=1633286851734000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLi50-exrPMCFQAAAAAdAAAAABAD)
+![webgis](https://www.webgis.net/images/post-image/Responsive-Design-WebGIS.png)
 
 **Web GIS** is a *pattern*, or *architectural* approach, for implementing a modern GIS. 
 
