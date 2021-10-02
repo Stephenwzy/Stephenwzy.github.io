@@ -1,22 +1,24 @@
 # Webgis
 ![webgis](https://www.webgis.net/images/post-image/Responsive-Design-WebGIS.png)
 
-**Web GIS** is a *pattern*, or *architectural* approach, for implementing a modern GIS. 
+## Definition
+**Web GIS** is a *pattern*, or *architectural* approach, for implementing a modern GIS. Web GIS is a technology that is used to display and analyze spatial data on the Internet. It combines the advantages of both the Internet and GIS. It offers public a new means to access spatial information without owning expensive GIS software.
 
 
-## Section 1
+## Introduction
 Web GIS can be implemented in the cloud (using ArcGIS Online), on-premises (using ArcGIS Server), or more typically as a hybrid combination, leveraging the best of both worlds.
 Web GIS isn’t new, in fact it’s been evolving for a long while. But we’ve reached, actually passed, a tipping point where innovation in GIS and related technologies have made Web GIS not only possible, but essential.
 
 
 ## Components of a Web GIS application
-There are five essential elements in every web GIS application:
+There are some essential elements in Web GIS:
 
-1. A web application
-2. Digital basemaps
-3. Operational layers
-4. Tasks and tools in the web GIS application
-5. One or more geodatabases
+1. The server has a URL so that clients can find it on the web.
+2. The client relies on HTTP specifications to send requests to the server.
+3. The server performs the requested GIS operations and sends responses to the client via HTTP.
+4. The format of the response sent to the client can be in many formats, such as HTML, binary image, XML (Extensible Markup Language), or JSON (JavaScript Object Notation). 
+
+![components](https://www.esri.com/news/arcwatch/0610/graphics/webgis5-lg.jpg)
  
 
 ## Potential of Web GIS
@@ -31,3 +33,5 @@ Web GIS provides many more opportunities to provide broader access to your autho
 ### References
 1. https://www.esri.com/about/newsroom/insider/web-gis-simply/
 2. https://enterprise.arcgis.com/en/server/10.6/create-web-apps/linux/a-framework-for-deploying-web-gis-applications.htm
+3. https://www.igi-global.com/dictionary/online-urban-information-systems/32458
+4. Photo address: https://www.webgis.net/images/post-image/Responsive-Design-WebGIS.png
