@@ -26,8 +26,8 @@ Web GIS provides many more opportunities to provide broader access to your autho
 
 
 ### See also
-- [Esri](esri.com)
-- [geo jobe](geo-jobe.com)
+- [Esri](https://www.esri.com/)
+- [geo jobe](https://www.geo-jobe.com)
 - [gislounge](https://www.gislounge.com/section-1-a-quick-introduction-to-gis-and-webgis/)
 
 ### References
