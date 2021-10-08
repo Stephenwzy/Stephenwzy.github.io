@@ -13,10 +13,10 @@ Web GIS isn’t new, in fact it’s been evolving for a long while. But we’ve 
 ## **Components of a Web GIS application**
 There are some essential elements in Web GIS:
 
-1. The server has a URL so that clients can find it on the web.
-2. The client relies on HTTP specifications to send requests to the server.
-3. The server performs the requested GIS operations and sends responses to the client via HTTP.
-4. The format of the response sent to the client can be in many formats, such as HTML, binary image, XML (Extensible Markup Language), or JSON (JavaScript Object Notation). 
+1. *The server has a URL so that clients can find it on the web.*
+2. *The client relies on HTTP specifications to send requests to the server.*
+3. *The server performs the requested GIS operations and sends responses to the client via HTTP.*
+4. *The format of the response sent to the client can be in many formats, such as HTML, binary image, XML (Extensible Markup Language), or JSON (JavaScript Object Notation).* 
 
 ![components](https://www.esri.com/news/arcwatch/0610/graphics/webgis5-lg.jpg)
  
